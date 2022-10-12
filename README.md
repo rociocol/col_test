@@ -9,7 +9,7 @@ I need to highlight that ==I'M TRYING TO LEARN PYTHON==.
 
 
 
-- [ ] review DOJ ticket
+- [ ] LT annotation
 - [ ] Bruker and DXCIT annotation
 - [ ] review top call drivers
 - [ ] dinner with me. I can't cancel that again!
