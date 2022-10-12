@@ -9,9 +9,10 @@ I need to highlight that ==I'M TRYING TO LEARN PYTHON==.
 
 
 
-- [ ] finish Lt annotation
-- [ ] top call drivers analysis
-- [ ] finish AV ticket
-- [ ] dinner with me. I can't cancle that again!
+- [ ] review DOJ ticket
+- [ ] Bruker and DXCIT annotation
+- [ ] review top call drivers
+- [ ] dinner with me. I can't cancel that again!
 - [ ] solve world hunger; tell no one
 - [ ] stare into the abyss
+
